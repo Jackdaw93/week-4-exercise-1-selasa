@@ -29,6 +29,7 @@ function Footer() {
         <div class="contact satu">
           <div class="square">
             <iframe
+              title="Map"
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.0516593282764!2d106.81246881476928!3d-6.256925395471076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f17f0bda2d5f%3A0x198e08030d45c3e5!2sJl.%20Kemang%20Raya%20No.10%2C%20RT.3%2FRW.2%2C%20Bangka%2C%20Kec.%20Mampang%20Prpt.%2C%20Kota%20Jakarta%20Selatan%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2012730!5e0!3m2!1sid!2sid!4v1592226037081!5m2!1sid!2sid"
               width="600"
               height="450"
