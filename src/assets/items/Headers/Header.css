@@ -1,32 +1,46 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Pacifico&display=swap');
 
 nav {
     display: flex;
-    background-color: rgb(148, 47, 241);
+    background-color: rgb(222, 1, 252);
     justify-content: space-around;
-    height: 50px;
+    height: 80px;
     align-items: center;
-    color: rgb(218, 197, 238);
+    color: rgb(252, 252, 252);
+
 }
 
 nav .logo {
     font-family: 'Pacifico', cursive;
-    letter-spacing: 3px;
+    letter-spacing: 1px;
+    font-size: 30px;
 }
 
 nav ul {
     display: flex;
     list-style: none;
     width: 40%;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 nav ul li a {
-    color: rgb(218, 197, 238);
+    color: rgb(254, 254, 255);
     text-decoration: none;
-    font-size: 0.8em;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
 }
 
 nav ul li a:hover {
-    color: rgba(250, 248, 255);
+    color: rgb(28, 13, 228);
+}
+
+@media screen and (max-width: 576px) {
+    nav {
+        display: flex;
+        background-color: rgb(222, 1, 252);
+        height: 70px;
+        align-items: center;
+        color: rgb(252, 252, 252);
+    }
+
 }

@@ -5,12 +5,11 @@ import Caffe from "../../Images/caffe.jpg";
 function Slide() {
   return (
     <div>
-      <div class="container-satu">
-        <div class="header">
+      <div className="container-satu">
+        <div className="header">
           <img src={Caffe} alt="" />
         </div>
       </div>
-      <h3>OUR SERVICE</h3>
     </div>
   );
 }
