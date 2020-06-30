@@ -1,0 +1,56 @@
+/* Card */
+.card {
+    border: 1px solid #999;
+    border-radius: 10px;
+    background-color: #eee;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.card .header {
+    height: 50px;
+    background-color: #666;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.card .image {
+    width: 40px;
+    height: 40px;
+}
+
+
+.card .content {
+    text-align: center;
+}
+
+.card .content img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card .footer {
+    text-align: center;
+    padding-bottom: 10px;
+    background-color: blue;
+}
+
+.card .footer button {
+    padding: 15px;
+    width: 50%;
+    margin-top: 5px;
+    background-color: rgb(114, 114, 179);
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+@media(min-width: 600px) {
+
+    .container-empat {
+        display: flex;
+        justify-content: space-between;
+
+    }
+}

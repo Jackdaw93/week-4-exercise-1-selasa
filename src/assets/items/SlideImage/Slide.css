@@ -1,0 +1,13 @@
+.container.satu {
+    display: flex;
+}
+
+.header img {
+    width: 100%;
+    height: 70%;
+}
+
+h3 {
+    text-align: center;
+    display: block;
+}
