@@ -5,37 +5,37 @@ import Tubruk from "../../Images/2.jpg";
 function Product() {
   return (
     <div>
-      <div class="container-empat">
-        <div class="card">
-          <div class="header">
+      <div className="container-empat">
+        <div className="card">
+          <div className="header">
             <h2>Coffe Tubruk</h2>
           </div>
-          <div class="content">
+          <div className="content">
             <img src={Tubruk} alt="" />
           </div>
-          <div class="footer">
+          <div className="footer">
             <button>Orde Now</button>
           </div>
         </div>
-        <div class="card">
-          <div class="header">
+        <div className="card">
+          <div className="header">
             <h2>Latte</h2>
           </div>
-          <div class="content">
+          <div className="content">
             <img src={Tubruk} alt="" />
           </div>
-          <div class="footer">
+          <div className="footer">
             <button>Orde Now</button>
           </div>
         </div>
-        <div class="card">
-          <div class="header">
+        <div className="card">
+          <div className="header">
             <h2>Coffe Mocca</h2>
           </div>
-          <div class="content">
+          <div className="content">
             <img src={Tubruk} alt="" />
           </div>
-          <div class="footer">
+          <div className="footer">
             <button>Orde Now</button>
           </div>
         </div>
