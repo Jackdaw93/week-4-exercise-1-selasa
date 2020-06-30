@@ -9,19 +9,19 @@ function Footer() {
           <foot class="foot">
             <ul>
               <li>
-                <a href="#">Home</a>
+                <a href="/">Home</a>
               </li>
               <li>
-                <a href="#">About</a>
+                <a href="/">About</a>
               </li>
               <li>
-                <a href="#">List</a>
+                <a href="/">List</a>
               </li>
               <li>
-                <a href="#">Tutorial</a>
+                <a href="/">Tutorial</a>
               </li>
               <li>
-                <a href="#">Download</a>
+                <a href="/">Download</a>
               </li>
             </ul>
           </foot>

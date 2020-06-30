@@ -10,16 +10,16 @@ function Header() {
         </div>
         <ul>
           <li>
-            <a href="">Home</a>
+            <a href="/">Home</a>
           </li>
           <li>
-            <a href="">Prouct</a>
+            <a href="/">Prouct</a>
           </li>
           <li>
-            <a href="">Service</a>
+            <a href="/">Service</a>
           </li>
           <li>
-            <a href="">Contact Us</a>
+            <a href="/">Contact Us</a>
           </li>
         </ul>
       </nav>
