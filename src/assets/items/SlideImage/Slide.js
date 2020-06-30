@@ -1,6 +1,6 @@
 import React from "react";
-import "assets/items/SlideImage/Slide.css";
-import Caffe from "assets/Images/caffe.jpg";
+import "./Slide.css";
+import Caffe from "../../Images/caffe.jpg";
 
 function Slide() {
   return (

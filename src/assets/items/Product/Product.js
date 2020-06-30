@@ -1,6 +1,6 @@
 import React from "react";
-import "assets/items/Product/Product.css";
-import Tubruk from "assets/Images/1.jpg";
+import "../Product/Product.css";
+import Tubruk from "../../Images/1.jpg";
 
 function Product() {
   return (

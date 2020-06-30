@@ -1,6 +1,6 @@
 import React from "react";
-import "assets/items/Service/Service.css";
-import Cozzy from "assets/Images/cozzy.jpg";
+import "./Service.css";
+import Cozzy from "../../Images/cozzy.jpg";
 
 function Service() {
   return (
